@@ -8,3 +8,6 @@ This repository is part of a module 5 group assignment in CS305 (Computing Tools
 
 ## License
 Under the MIT license. For more information please follow this link: [LICENSE](https://github.com/slk325/mod5_assignment/blob/main/LICENSE).
+
+## Hypothetical module
+This is the hypothetical module that Devin Jay created.
